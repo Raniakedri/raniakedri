@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Rania Kedri
+# 🌟 Rania Kedri
 
-I'm a passionate software engineering student currently studying at [Your University]. I love coding, learning new technologies, and building projects that solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate software engineering student eager to learn and create. 
 
 ## 🌱 About Me
 
@@ -22,16 +22,19 @@ I'm a passionate software engineering student currently studying at [Your Univer
 - **Description**: [Brief description of the project]
 - **Technologies**: [Technologies used]
 - **GitHub Link**: [Link to the project repository]
+- ⭐ If you like this project, please give it a star! 🌟
 
 ### [Project 2 Name]
 - **Description**: [Brief description of the project]
 - **Technologies**: [Technologies used]
 - **GitHub Link**: [Link to the project repository]
+- ⭐ If you like this project, please give it a star! 🌟
 
 ### [Project 3 Name]
 - **Description**: [Brief description of the project]
 - **Technologies**: [Technologies used]
 - **GitHub Link**: [Link to the project repository]
+- ⭐ If you like this project, please give it a star! 🌟
 
 ## 📈 GitHub Stats
 
